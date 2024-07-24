@@ -1,0 +1,3 @@
+/mnt/f/gittask/tools/cmake-build-debug/CMakeFiles/MemoryMonitor.dir
+/mnt/f/gittask/tools/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/f/gittask/tools/cmake-build-debug/CMakeFiles/rebuild_cache.dir
